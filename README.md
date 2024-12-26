@@ -37,6 +37,8 @@ This repository contains a real-time notification system that provides instant u
   - Clients connected to the system will receive and display messages instantly.
 
 
+![Screenshot 2024-12-26 230102](https://github.com/user-attachments/assets/5bd81243-1ef3-43a1-966a-c6c4c0b82c22)
+![Screenshot 2024-12-26 225936](https://github.com/user-attachments/assets/9b037f3b-3af9-45eb-ad3b-aad89460c8fc)
 
 ---
 
