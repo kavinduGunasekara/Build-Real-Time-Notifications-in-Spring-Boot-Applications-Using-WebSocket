@@ -26,25 +26,6 @@ This repository contains a real-time notification system that provides instant u
 3. **Broker**:
    - Uses the `/topic/notifications` channel for message communication between the admin and clients.
 
-## Installation and Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-repository-name.git
-   cd your-repository-name
-   ```
-
-2. **Backend setup:**
-   - Ensure you have Java and Maven installed.
-   - Navigate to the backend folder and run:
-     ```bash
-     mvn clean install
-     mvn spring-boot:run
-     ```
-
-3. **Frontend setup:**
-   - Open the `index.html` file in a browser to access the client interface.
-   - Use the provided admin interface to broadcast messages.
 
 ## Usage
 
